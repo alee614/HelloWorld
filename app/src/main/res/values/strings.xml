@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Hello world</string>
+    <string name="app_name">Hola world</string>
+    <string name="button_hello">HI</string>
+    <string name="button_countup">Count up</string>
+    <string name="textView_count">0</string>
+    <string name="toast_message">toast</string>
 </resources>
